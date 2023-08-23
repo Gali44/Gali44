@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gali44
 - 👀 I’m QA Engineer
-- 🌱 I’m currently JavaScript, Python and Selenium Webdriver.
+- 🌱 I’m currently Python, JavaScript, and Selenium Webdriver.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
